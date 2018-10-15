@@ -1,5 +1,10 @@
 NODE ASYNC TRACING
 
+## Try
+1. `node ./service.1`
+2. `node ./service.2`
+3. `node ./client` <-- should receive  correct reqId
+
 ### Some intersting links (some may be garbage)
 - http://joliv.me/b/2016/10/29/request-persistence-express/
 - https://medium.com/@tabu_craig/nodejs-and-thread-local-storage-eb2c1a24881
