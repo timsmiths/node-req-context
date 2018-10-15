@@ -1,6 +1,7 @@
 NODE ASYNC TRACING
 
 ### Some intersting links (some may be garbage)
+- http://joliv.me/b/2016/10/29/request-persistence-express/
 - https://medium.com/@tabu_craig/nodejs-and-thread-local-storage-eb2c1a24881
 - https://www.npmjs.com/package/continuation-local-storage
 - https://www.slideshare.net/isharabash/cls-and-asynclistener
